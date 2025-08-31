@@ -12,8 +12,8 @@ from database_tools import text_to_sql, init_database, get_database_info
 # --- 1. Page Configuration and Title ---
 
 # Set the title and a caption for the web page
-st.title("💬 SQL Assistant with LangGraph")
-st.caption("A chatbot that can answer questions about sales data using SQL")
+st.title("💬 SQL ChatbotOlipMine Assistant with LangGraph")
+st.caption("Bisa Tanya-Tanya Terkait Data Penjualan ya~")
 
 # --- 2. Sidebar for Settings ---
 
